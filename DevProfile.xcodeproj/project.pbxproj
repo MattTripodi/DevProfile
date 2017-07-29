@@ -54,6 +54,7 @@
 		EE56C7DB1F2CF88F0088AD0C /* DevProfile */ = {
 			isa = PBXGroup;
 			children = (
+				EE56C7EE1F2CFA910088AD0C /* View */,
 				EE56C7DC1F2CF88F0088AD0C /* AppDelegate.swift */,
 				EE56C7DE1F2CF88F0088AD0C /* ViewController.swift */,
 				EE56C7E01F2CF88F0088AD0C /* Main.storyboard */,
@@ -62,6 +63,13 @@
 				EE56C7E81F2CF8900088AD0C /* Info.plist */,
 			);
 			path = DevProfile;
+			sourceTree = "<group>";
+		};
+		EE56C7EE1F2CFA910088AD0C /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
